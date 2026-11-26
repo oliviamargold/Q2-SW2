@@ -1,0 +1,32 @@
+
+body {
+  background-image: url('https://images.squarespace-cdn.com/content/v1/664c7ae50eea9c731b37e817/8048edd1-98cc-42df-b46b-905a84cd33dc/CASA+PROGRAM+5+-+18+copy.jpg?format=2500w');
+  background-repeat: no-repeat;
+}
+
+.row {
+    gap: 24px;
+}
+
+.message {
+    background-color: #f8f9fa;
+    padding: 24px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(37, 40, 41);
+  color: white;
+  text-align: center;
+}
+
+.text-style {
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+  
+}
